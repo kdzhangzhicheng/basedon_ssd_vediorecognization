@@ -1,0 +1,9 @@
+parse.py负责解析视频
+Main.py负责将视频中的帧图片识别
+compose.py负责汇总图片，如果需要，可以使用cutpicture.py裁切
+主要过程是将视频解析后的图片交由SSD识别，然后将解析图片汇总成视频，达到视频识别的效果
+(parseqq.py是解析腾讯视频的文件)
+ckpt文件
+链接https://pan.baidu.com/s/1LVUo-DX28f3dM5UCVmbbTA 
+
+提取码：yfzs 
